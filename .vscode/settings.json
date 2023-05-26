@@ -1,0 +1,13 @@
+{
+  "python.analysis.typeCheckingMode": "off",
+  "cSpell.words": [
+    "addi",
+    "Funct",
+    "hfff",
+    "localparam",
+    "negedge",
+    "posedge",
+    "readmemb",
+    "slti"
+  ]
+}

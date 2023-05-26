@@ -1,0 +1,103 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/CollegeLearningRepo/VerilogLearning/bitwise_extension
+vsigned_extender
+Z1 !s110 1682517309
+!i10b 1
+!s100 PcfgEV18SaKdziAfgg1>51
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ImA=@IX]:=C6E37CinmUm[2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1682516738
+8signed_extender.v
+Fsigned_extender.v
+!i122 21
+Z4 L0 1 8
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1682517309.000000
+Z7 !s107 signed_extender.v|E:/CollegeLearningRepo/VerilogLearning/bitwise_extension/signed_extender_tb.v|
+Z8 !s90 -reportprogress|300|-work|work|E:/CollegeLearningRepo/VerilogLearning/bitwise_extension/signed_extender_tb.v|
+!i113 1
+Z9 o-work work
+Z10 tCvgOpt 0
+vsigned_extender_tb
+R1
+!i10b 1
+!s100 fc>@Nk>35ldz[<6lM0YN02
+R2
+I3F:EG=YzB`<M[:nTJjXXZ0
+R3
+R0
+w1682517212
+8E:/CollegeLearningRepo/VerilogLearning/bitwise_extension/signed_extender_tb.v
+FE:/CollegeLearningRepo/VerilogLearning/bitwise_extension/signed_extender_tb.v
+!i122 21
+Z11 L0 3 36
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+vzero_extender
+R1
+!i10b 1
+!s100 U[jkMNKTCWHeE2XCOl2Cd2
+R2
+I?FeJeJd=A]9neP?8AIU??1
+R3
+R0
+w1682516506
+8zero_extender.v
+Fzero_extender.v
+!i122 23
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 zero_extender.v|E:/CollegeLearningRepo/VerilogLearning/bitwise_extension/zero_extender_tb.v|
+Z12 !s90 -reportprogress|300|-work|work|E:/CollegeLearningRepo/VerilogLearning/bitwise_extension/zero_extender_tb.v|
+!i113 1
+R9
+R10
+vzero_extender_tb
+R1
+!i10b 1
+!s100 G8?G:h?04Jn2dR_L1UW8>3
+R2
+IoNY_=cI1zcH7TXKIXXgjE0
+R3
+R0
+w1682517217
+8E:/CollegeLearningRepo/VerilogLearning/bitwise_extension/zero_extender_tb.v
+FE:/CollegeLearningRepo/VerilogLearning/bitwise_extension/zero_extender_tb.v
+!i122 23
+R11
+R5
+r1
+!s85 0
+31
+R6
+Z13 !s107 zero_extender.v|E:/CollegeLearningRepo/VerilogLearning/bitwise_extension/zero_extender_tb.v|
+R12
+!i113 1
+R9
+R10
